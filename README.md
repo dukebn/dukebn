@@ -1,5 +1,5 @@
 # Hi, I’m Duke 👋🏾🧑🏾‍💻
-
+### Software Engineer | Backend
 
 <!--
 - 👀 I’m interested in ...
